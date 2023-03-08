@@ -1,0 +1,10 @@
+C:\Users\Muhammad Ali\source\repos\OOP_Assign1_Q5\OOP_Assign1_Q5\bin\Debug\OOP_Assign1_Q5.exe.config
+C:\Users\Muhammad Ali\source\repos\OOP_Assign1_Q5\OOP_Assign1_Q5\bin\Debug\OOP_Assign1_Q5.exe
+C:\Users\Muhammad Ali\source\repos\OOP_Assign1_Q5\OOP_Assign1_Q5\bin\Debug\OOP_Assign1_Q5.pdb
+C:\Users\Muhammad Ali\source\repos\OOP_Assign1_Q5\OOP_Assign1_Q5\obj\Debug\OOP_Assign1_Q5.csproj.AssemblyReference.cache
+C:\Users\Muhammad Ali\source\repos\OOP_Assign1_Q5\OOP_Assign1_Q5\obj\Debug\OOP_Assign1_Q5.Form1.resources
+C:\Users\Muhammad Ali\source\repos\OOP_Assign1_Q5\OOP_Assign1_Q5\obj\Debug\OOP_Assign1_Q5.Properties.Resources.resources
+C:\Users\Muhammad Ali\source\repos\OOP_Assign1_Q5\OOP_Assign1_Q5\obj\Debug\OOP_Assign1_Q5.csproj.GenerateResource.cache
+C:\Users\Muhammad Ali\source\repos\OOP_Assign1_Q5\OOP_Assign1_Q5\obj\Debug\OOP_Assign1_Q5.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Ali\source\repos\OOP_Assign1_Q5\OOP_Assign1_Q5\obj\Debug\OOP_Assign1_Q5.exe
+C:\Users\Muhammad Ali\source\repos\OOP_Assign1_Q5\OOP_Assign1_Q5\obj\Debug\OOP_Assign1_Q5.pdb
